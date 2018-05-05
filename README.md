@@ -10,4 +10,4 @@ Questions to solve:
 
 Answers to 1,2,3 are available on the jupyter: IGT_Data_Analysis-Updated.ipynb </br>
 
-Answers to 5 and 6 questions are available on the jupyter notebook:
+Answers to 5 and 6 questions are available on the jupyter notebook: IGT_delay_prediction.ipynb </br>
